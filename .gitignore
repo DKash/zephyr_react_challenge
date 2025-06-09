@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Builds
+dist/
+build/
+*.log
+
+# System
+.DS_Store
+.env
+.env.*
+*.local
+*.lock
+
+# IDEs
+.vscode/
+.idea/
